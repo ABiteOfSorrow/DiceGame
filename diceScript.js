@@ -4,6 +4,7 @@ alert("If you want play the game, click the NEW GAME Button please");
 // new game button active
 document.querySelector('.btn-newGame').addEventListener('click', init);
 
+// initializing game
 function init() {
     duringPlay = true;
     totalScores = 0;
