@@ -139,7 +139,7 @@ span {
 }
 
 .EndGame {
-    background-color: rgb(238, 255, 0);
+    background-color: rgb(239, 255, 0);
     animation: blink-effect 1.5s ease-in-out infinite;    
 }
 
